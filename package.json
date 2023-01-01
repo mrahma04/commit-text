@@ -1,0 +1,21 @@
+{
+  "name": "commit-text",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrahma04/commit-text.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrahma04/commit-text/issues"
+  },
+  "homepage": "https://github.com/mrahma04/commit-text#readme"
+}
